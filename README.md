@@ -44,18 +44,3 @@ habilidades
 -------------------------
 <p align="center" style="background-color: # c0c0c0; padding: 200px;">
 </p>
-
-``` mermaid
-        graph TD
-            A((inicio)) -->B[1]
-            B-->C[2]
-            B-->D[2.1]
-            D-->E[3]
-            C-->E[3]
-            A-->F[importar]
-            F-->G[solus]
-            F-->R[4.3]
-            R-->M[Contar]
-            G-->E[info]
-            M-->E
-```    
