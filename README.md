@@ -1,5 +1,4 @@
 ## Hola soy Tomas 👋
-
 <!--
 **tceballospalacio-oss/tceballospalacio-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +15,28 @@ Here are some ideas to get you started:
 -->
 <img width="1671" height="941" alt="949ac2ca-5893-4df3-b510-2fec4e097e51" src="https://github.com/user-attachments/assets/bac6ce0c-aaef-44cc-9d6f-12623e7856aa" />
 
+*Perfil*
+
+📗ingenieria cibernetica
+-------------------------
+[UNIVERSIDAD SANBUENAVENTURA]
+
+
+| CARACTER | INFORMACION |
+| :------------: | :--------------: |
+|  clase | programacion |
+| institución perteneciente |  UNIVERSIDAD SANBUENAVENTURA (USB) |
+| EDAD | 19 AÑOS |
+
+habilidades
+-----------
+- [ ] 🟠kotlin
+- [x] 🟡java
+- [x] 🟢python
+- [x] 🔵SQL
+- [x] jason
+---------------------------
+
+>[!nota]
+>***Todo esto es parte de un trabajo de programación***
+-------------------------
