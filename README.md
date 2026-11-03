@@ -1,4 +1,5 @@
-## Hola soy Tomas 👋
+## Hola soy Tomas :shipit:
+
 <!--
 **tceballospalacio-oss/tceballospalacio-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,9 +33,9 @@ habilidades
 -----------
 - [ ] 🟠kotlin
 - [x] 🟡java
-- [x] 🟢python
-- [x] 🔵SQL
-- [x] jason
+- [x] :copilot: python
+- [x] :dependabot: SQL
+- [x] :electron: jason
 ---------------------------
 
 >[!nota]
