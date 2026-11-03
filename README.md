@@ -40,3 +40,6 @@ habilidades
 >[!nota]
 >***Todo esto es parte de un trabajo de programación***
 -------------------------
+<p align="center" style="background-color: # c0c0c0; padding: 200px;">
+</p>
+
